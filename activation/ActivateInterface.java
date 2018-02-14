@@ -19,7 +19,7 @@ import butterknife.ButterKnife;
 public class ActivateInterface extends BrinActivity
 {
 
-    private final String comKey = "UHEIVBIEbuegbg7436bkjvubveikuBIUKBHJBI/T(riugbkjhvb kbvrkjbkrjbkrb/U/74897z4375t8435tbvkbKJHBKJBkl";
+    private final String comKey = "XXX";
 
     @Override
     public boolean broadcastEnabled()
